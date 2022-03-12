@@ -1,0 +1,666 @@
+pid,task,duration,age,class
+0,Water Plants,146,72,HOA
+0,Fill Medication Dispenser,210,72,HOA
+0,Wash Countertop,241,72,HOA
+0,Sweep and Dust,328,72,HOA
+0,Cook,229,72,HOA
+0,Wash Hands,38,72,HOA
+0,Perform TUG,10,72,HOA
+0,Perform TUG w/Questions,10,72,HOA
+0,Day Out Task,680,72,HOA
+1,Water Plants,63,54,HOA
+1,Fill Medication Dispenser,202,54,HOA
+1,Wash Countertop,259,54,HOA
+1,Sweep and Dust,298,54,HOA
+1,Cook,236,54,HOA
+1,Wash Hands,86,54,HOA
+1,Perform TUG,10,54,HOA
+1,Perform TUG w/Questions,13,54,HOA
+1,Day Out Task,611,54,HOA
+2,Water Plants,47,62,PD
+2,Fill Medication Dispenser,205,62,PD
+2,Wash Countertop,232,62,PD
+2,Sweep and Dust,543,62,PD
+2,Cook,511,62,PD
+2,Wash Hands,41,62,PD
+2,Perform TUG,8,62,PD
+2,Perform TUG w/Questions,11,62,PD
+2,Day Out Task,921,62,PD
+3,Water Plants,178,57,PD
+3,Fill Medication Dispenser,221,57,PD
+3,Wash Countertop,208,57,PD
+3,Sweep and Dust,250,57,PD
+3,Cook,337,57,PD
+3,Wash Hands,49,57,PD
+3,Perform TUG,11,57,PD
+3,Perform TUG w/Questions,13,57,PD
+3,Day Out Task,5473,57,PD
+4,Water Plants,187,72,HOA
+4,Fill Medication Dispenser,172,72,HOA
+4,Wash Countertop,255,72,HOA
+4,Sweep and Dust,400,72,HOA
+4,Cook,245,72,HOA
+4,Wash Hands,48,72,HOA
+4,Perform TUG,9,72,HOA
+4,Perform TUG w/Questions,9,72,HOA
+4,Day Out Task,657,72,HOA
+5,Water Plants,182,61,HOA
+5,Fill Medication Dispenser,207,61,HOA
+5,Wash Countertop,147,61,HOA
+5,Sweep and Dust,325,61,HOA
+5,Cook,212,61,HOA
+5,Wash Hands,49,61,HOA
+5,Perform TUG,10,61,HOA
+5,Perform TUG w/Questions,11,61,HOA
+5,Day Out Task,4409,61,HOA
+6,Water Plants,143,55,HOA
+6,Fill Medication Dispenser,206,55,HOA
+6,Wash Countertop,249,55,HOA
+6,Sweep and Dust,259,55,HOA
+6,Cook,204,55,HOA
+6,Wash Hands,23,55,HOA
+6,Perform TUG,7,55,HOA
+6,Perform TUG w/Questions,5,55,HOA
+6,Day Out Task,4852,55,HOA
+7,Water Plants,180,62,PD
+7,Fill Medication Dispenser,338,62,PD
+7,Wash Countertop,331,62,PD
+7,Sweep and Dust,397,62,PD
+7,Cook,225,62,PD
+7,Wash Hands,52,62,PD
+7,Perform TUG,20,62,PD
+7,Perform TUG w/Questions,20,62,PD
+7,Day Out Task,4614,62,PD
+8,Water Plants,162,59,HOA
+8,Fill Medication Dispenser,209,59,HOA
+8,Wash Countertop,184,59,HOA
+8,Sweep and Dust,447,59,HOA
+8,Cook,216,59,HOA
+8,Wash Hands,48,59,HOA
+8,Perform TUG,9,59,HOA
+8,Perform TUG w/Questions,10,59,HOA
+8,Day Out Task,4279,59,HOA
+9,Water Plants,126,57,HOA
+9,Fill Medication Dispenser,224,57,HOA
+9,Wash Countertop,161,57,HOA
+9,Sweep and Dust,197,57,HOA
+9,Cook,254,57,HOA
+9,Wash Hands,27,57,HOA
+9,Perform TUG,11,57,HOA
+9,Perform TUG w/Questions,12,57,HOA
+9,Day Out Task,5631,57,HOA
+10,Water Plants,125,64,PD
+10,Fill Medication Dispenser,217,64,PD
+10,Wash Countertop,238,64,PD
+10,Sweep and Dust,390,64,PD
+10,Cook,194,64,PD
+10,Wash Hands,48,64,PD
+10,Perform TUG,9,64,PD
+10,Perform TUG w/Questions,12,64,PD
+10,Day Out Task,1053,64,PD
+11,Water Plants,158,57,HOA
+11,Fill Medication Dispenser,181,57,HOA
+11,Wash Countertop,155,57,HOA
+11,Sweep and Dust,362,57,HOA
+11,Cook,216,57,HOA
+11,Wash Hands,65,57,HOA
+11,Perform TUG,10,57,HOA
+11,Perform TUG w/Questions,12,57,HOA
+11,Day Out Task,868,57,HOA
+12,Water Plants,153,65,HOA
+12,Fill Medication Dispenser,189,65,HOA
+12,Wash Countertop,338,65,HOA
+12,Sweep and Dust,537,65,HOA
+12,Cook,197,65,HOA
+12,Wash Hands,60,65,HOA
+12,Perform TUG,7,65,HOA
+12,Perform TUG w/Questions,8,65,HOA
+12,Day Out Task,4917,65,HOA
+13,Water Plants,152,76,HOA
+13,Fill Medication Dispenser,190,76,HOA
+13,Wash Countertop,201,76,HOA
+13,Sweep and Dust,308,76,HOA
+13,Cook,222,76,HOA
+13,Wash Hands,34,76,HOA
+13,Perform TUG,10,76,HOA
+13,Perform TUG w/Questions,11,76,HOA
+13,Day Out Task,928,76,HOA
+14,Water Plants,150,83,HOA
+14,Fill Medication Dispenser,207,83,HOA
+14,Wash Countertop,187,83,HOA
+14,Sweep and Dust,389,83,HOA
+14,Cook,288,83,HOA
+14,Wash Hands,43,83,HOA
+14,Perform TUG,7,83,HOA
+14,Perform TUG w/Questions,9,83,HOA
+14,Day Out Task,1070,83,HOA
+15,Water Plants,266,68,HOA
+15,Fill Medication Dispenser,359,68,HOA
+15,Wash Countertop,297,68,HOA
+15,Sweep and Dust,493,68,HOA
+15,Cook,244,68,HOA
+15,Wash Hands,37,68,HOA
+15,Perform TUG,8,68,HOA
+15,Perform TUG w/Questions,9,68,HOA
+15,Day Out Task,1330,68,HOA
+16,Water Plants,140,62,HOA
+16,Fill Medication Dispenser,165,62,HOA
+16,Wash Countertop,168,62,HOA
+16,Sweep and Dust,331,62,HOA
+16,Cook,174,62,HOA
+16,Wash Hands,36,62,HOA
+16,Perform TUG,9,62,HOA
+16,Perform TUG w/Questions,9,62,HOA
+16,Day Out Task,2266,62,HOA
+17,Water Plants,140,73,HOA
+17,Fill Medication Dispenser,216,73,HOA
+17,Wash Countertop,222,73,HOA
+17,Sweep and Dust,378,73,HOA
+17,Cook,201,73,HOA
+17,Wash Hands,42,73,HOA
+17,Perform TUG,8,73,HOA
+17,Perform TUG w/Questions,9,73,HOA
+17,Day Out Task,1042,73,HOA
+18,Water Plants,283,69,HOA
+18,Fill Medication Dispenser,210,69,HOA
+18,Wash Countertop,256,69,HOA
+18,Sweep and Dust,480,69,HOA
+18,Cook,205,69,HOA
+18,Wash Hands,35,69,HOA
+18,Perform TUG,7,69,HOA
+18,Perform TUG w/Questions,9,69,HOA
+18,Day Out Task,949,69,HOA
+19,Water Plants,153,75,HOA
+19,Fill Medication Dispenser,297,75,HOA
+19,Wash Countertop,201,75,HOA
+19,Sweep and Dust,411,75,HOA
+19,Cook,196,75,HOA
+19,Wash Hands,38,75,HOA
+19,Perform TUG,11,75,HOA
+19,Perform TUG w/Questions,15,75,HOA
+19,Day Out Task,1545,75,HOA
+20,Water Plants,160,64,HOA
+20,Fill Medication Dispenser,194,64,HOA
+20,Wash Countertop,127,64,HOA
+20,Sweep and Dust,355,64,HOA
+20,Cook,168,64,HOA
+20,Wash Hands,35,64,HOA
+20,Perform TUG,6,64,HOA
+20,Perform TUG w/Questions,6,64,HOA
+20,Day Out Task,714,64,HOA
+21,Water Plants,136,56,HOA
+21,Fill Medication Dispenser,127,56,HOA
+21,Wash Countertop,149,56,HOA
+21,Sweep and Dust,312,56,HOA
+21,Cook,218,56,HOA
+21,Wash Hands,15,56,HOA
+21,Perform TUG,8,56,HOA
+21,Perform TUG w/Questions,10,56,HOA
+21,Day Out Task,786,56,HOA
+22,Water Plants,139,68,HOA
+22,Fill Medication Dispenser,224,68,HOA
+22,Wash Countertop,145,68,HOA
+22,Sweep and Dust,336,68,HOA
+22,Cook,265,68,HOA
+22,Wash Hands,24,68,HOA
+22,Perform TUG,8,68,HOA
+22,Perform TUG w/Questions,8,68,HOA
+22,Day Out Task,4411,68,HOA
+23,Water Plants,145,64,HOA
+23,Fill Medication Dispenser,157,64,HOA
+23,Wash Countertop,147,64,HOA
+23,Sweep and Dust,338,64,HOA
+23,Cook,224,64,HOA
+23,Wash Hands,22,64,HOA
+23,Day Out Task,3734,64,HOA
+24,Water Plants,51,54,HOA
+24,Fill Medication Dispenser,178,54,HOA
+24,Wash Countertop,205,54,HOA
+24,Sweep and Dust,340,54,HOA
+24,Cook,216,54,HOA
+24,Wash Hands,32,54,HOA
+24,Perform TUG,6,54,HOA
+24,Perform TUG w/Questions,5,54,HOA
+24,Day Out Task,6151,54,HOA
+25,Water Plants,42,72,PD
+25,Fill Medication Dispenser,174,72,PD
+25,Wash Countertop,141,72,PD
+25,Sweep and Dust,205,72,PD
+25,Cook,154,72,PD
+25,Wash Hands,15,72,PD
+25,Perform TUG,8,72,PD
+25,Perform TUG w/Questions,12,72,PD
+25,Day Out Task,815,72,PD
+26,Water Plants,37,68,PD
+26,Fill Medication Dispenser,231,68,PD
+26,Wash Countertop,149,68,PD
+26,Sweep and Dust,375,68,PD
+26,Cook,224,68,PD
+26,Wash Hands,42,68,PD
+26,Perform TUG,9,68,PD
+26,Perform TUG w/Questions,10,68,PD
+26,Day Out Task,856,68,PD
+27,Water Plants,74,88,HOA
+27,Fill Medication Dispenser,215,88,HOA
+27,Wash Countertop,171,88,HOA
+27,Sweep and Dust,392,88,HOA
+27,Cook,157,88,HOA
+27,Wash Hands,7,88,HOA
+27,Perform TUG,9,88,HOA
+27,Perform TUG w/Questions,5,88,HOA
+27,Day Out Task,3878,88,HOA
+28,Water Plants,63,70,HOA
+28,Fill Medication Dispenser,195,70,HOA
+28,Wash Countertop,201,70,HOA
+28,Sweep and Dust,388,70,HOA
+28,Cook,222,70,HOA
+28,Wash Hands,31,70,HOA
+28,Perform TUG,7,70,HOA
+28,Perform TUG w/Questions,8,70,HOA
+28,Day Out Task,1273,70,HOA
+29,Water Plants,57,56,HOA
+29,Fill Medication Dispenser,168,56,HOA
+29,Wash Countertop,337,56,HOA
+29,Sweep and Dust,448,56,HOA
+29,Cook,217,56,HOA
+29,Wash Hands,42,56,HOA
+29,Day Out Task,900,56,HOA
+30,Water Plants,56,67,HOA
+30,Fill Medication Dispenser,234,67,HOA
+30,Wash Countertop,264,67,HOA
+30,Sweep and Dust,317,67,HOA
+30,Cook,119,67,HOA
+30,Wash Hands,28,67,HOA
+30,Perform TUG,6,67,HOA
+30,Perform TUG w/Questions,9,67,HOA
+30,Day Out Task,4648,67,HOA
+31,Water Plants,59,54,PD
+31,Fill Medication Dispenser,221,54,PD
+31,Wash Countertop,326,54,PD
+31,Sweep and Dust,335,54,PD
+31,Cook,222,54,PD
+31,Wash Hands,52,54,PD
+31,Perform TUG,9,54,PD
+31,Perform TUG w/Questions,16,54,PD
+31,Day Out Task,638,54,PD
+32,Water Plants,46,62,HOA
+32,Fill Medication Dispenser,156,62,HOA
+32,Wash Countertop,259,62,HOA
+32,Sweep and Dust,268,62,HOA
+32,Cook,160,62,HOA
+32,Wash Hands,36,62,HOA
+32,Perform TUG,8,62,HOA
+32,Perform TUG w/Questions,10,62,HOA
+32,Day Out Task,597,62,HOA
+33,Water Plants,61,81,HOA
+33,Fill Medication Dispenser,270,81,HOA
+33,Wash Countertop,204,81,HOA
+33,Sweep and Dust,441,81,HOA
+33,Cook,345,81,HOA
+33,Wash Hands,34,81,HOA
+33,Perform TUG,9,81,HOA
+33,Perform TUG w/Questions,33,81,HOA
+33,Day Out Task,930,81,HOA
+34,Water Plants,103,83,HOA
+34,Fill Medication Dispenser,290,83,HOA
+34,Wash Countertop,243,83,HOA
+34,Sweep and Dust,310,83,HOA
+34,Cook,601,83,HOA
+34,Wash Hands,52,83,HOA
+34,Perform TUG,9,83,HOA
+34,Perform TUG w/Questions,11,83,HOA
+34,Day Out Task,1301,83,HOA
+35,Water Plants,67,77,HOA
+35,Fill Medication Dispenser,296,77,HOA
+35,Wash Countertop,325,77,HOA
+35,Sweep and Dust,483,77,HOA
+35,Cook,227,77,HOA
+35,Wash Hands,31,77,HOA
+35,Perform TUG,9,77,HOA
+35,Perform TUG w/Questions,9,77,HOA
+35,Day Out Task,1608,77,HOA
+36,Water Plants,67,68,HOA
+36,Fill Medication Dispenser,230,68,HOA
+36,Wash Countertop,344,68,HOA
+36,Sweep and Dust,480,68,HOA
+36,Cook,116,68,HOA
+36,Wash Hands,50,68,HOA
+36,Perform TUG,8,68,HOA
+36,Perform TUG w/Questions,13,68,HOA
+36,Day Out Task,959,68,HOA
+37,Water Plants,61,70,HOA
+37,Fill Medication Dispenser,210,70,HOA
+37,Wash Countertop,503,70,HOA
+37,Sweep and Dust,460,70,HOA
+37,Cook,212,70,HOA
+37,Wash Hands,4,70,HOA
+37,Perform TUG,8,70,HOA
+37,Perform TUG w/Questions,12,70,HOA
+37,Day Out Task,798,70,HOA
+38,Water Plants,145,70,PD
+38,Fill Medication Dispenser,178,70,PD
+38,Wash Countertop,223,70,PD
+38,Sweep and Dust,423,70,PD
+38,Cook,296,70,PD
+38,Wash Hands,56,70,PD
+38,Perform TUG,9,70,PD
+38,Perform TUG w/Questions,15,70,PD
+38,Day Out Task,1251,70,PD
+39,Water Plants,61,64,HOA
+39,Fill Medication Dispenser,185,64,HOA
+39,Wash Countertop,251,64,HOA
+39,Sweep and Dust,484,64,HOA
+39,Cook,163,64,HOA
+39,Wash Hands,40,64,HOA
+39,Perform TUG,10,64,HOA
+39,Perform TUG w/Questions,10,64,HOA
+39,Day Out Task,891,64,HOA
+40,Water Plants,98,87,PD
+40,Fill Medication Dispenser,328,87,PD
+40,Wash Countertop,306,87,PD
+40,Sweep and Dust,354,87,PD
+40,Cook,717,87,PD
+40,Wash Hands,55,87,PD
+40,Perform TUG,11,87,PD
+40,Perform TUG w/Questions,18,87,PD
+40,Day Out Task,2041,87,PD
+41,Water Plants,45,65,HOA
+41,Fill Medication Dispenser,214,65,HOA
+41,Wash Countertop,312,65,HOA
+41,Sweep and Dust,326,65,HOA
+41,Cook,204,65,HOA
+41,Wash Hands,27,65,HOA
+41,Perform TUG,11,65,HOA
+41,Perform TUG w/Questions,9,65,HOA
+41,Day Out Task,1134,65,HOA
+42,Water Plants,48,59,HOA
+42,Fill Medication Dispenser,232,59,HOA
+42,Wash Countertop,205,59,HOA
+42,Sweep and Dust,288,59,HOA
+42,Cook,189,59,HOA
+42,Wash Hands,42,59,HOA
+42,Perform TUG,10,59,HOA
+42,Perform TUG w/Questions,11,59,HOA
+42,Day Out Task,3254,59,HOA
+43,Water Plants,60,76,HOA
+43,Fill Medication Dispenser,156,76,HOA
+43,Wash Countertop,490,76,HOA
+43,Sweep and Dust,986,76,HOA
+43,Cook,238,76,HOA
+43,Wash Hands,219,76,HOA
+43,Perform TUG,13,76,HOA
+43,Perform TUG w/Questions,18,76,HOA
+43,Day Out Task,856,76,HOA
+44,Water Plants,116,85,HOA
+44,Fill Medication Dispenser,318,85,HOA
+44,Wash Countertop,340,85,HOA
+44,Sweep and Dust,651,85,HOA
+44,Cook,383,85,HOA
+44,Wash Hands,237,85,HOA
+44,Perform TUG,10,85,HOA
+44,Perform TUG w/Questions,11,85,HOA
+44,Day Out Task,2254,85,HOA
+45,Water Plants,56,80,PD
+45,Fill Medication Dispenser,332,80,PD
+45,Wash Countertop,284,80,PD
+45,Sweep and Dust,523,80,PD
+45,Cook,239,80,PD
+45,Wash Hands,31,80,PD
+45,Perform TUG,11,80,PD
+45,Perform TUG w/Questions,13,80,PD
+46,Water Plants,197,77,HOA
+46,Fill Medication Dispenser,214,77,HOA
+46,Wash Countertop,147,77,HOA
+46,Sweep and Dust,321,77,HOA
+46,Cook,576,77,HOA
+46,Wash Hands,35,77,HOA
+46,Perform TUG,7,77,HOA
+46,Perform TUG w/Questions,9,77,HOA
+46,Day Out Task,939,77,HOA
+47,Water Plants,50,67,HOA
+47,Fill Medication Dispenser,108,67,HOA
+47,Wash Countertop,159,67,HOA
+47,Sweep and Dust,291,67,HOA
+47,Cook,207,67,HOA
+47,Wash Hands,34,67,HOA
+47,Perform TUG,9,67,HOA
+47,Perform TUG w/Questions,9,67,HOA
+47,Day Out Task,3513,67,HOA
+48,Water Plants,65,87,HOA
+48,Fill Medication Dispenser,270,87,HOA
+48,Wash Countertop,281,87,HOA
+48,Sweep and Dust,468,87,HOA
+48,Cook,242,87,HOA
+48,Wash Hands,39,87,HOA
+48,Perform TUG,11,87,HOA
+48,Perform TUG w/Questions,13,87,HOA
+48,Day Out Task,1191,87,HOA
+49,Water Plants,116,56,PD
+49,Fill Medication Dispenser,214,56,PD
+49,Wash Countertop,496,56,PD
+49,Sweep and Dust,321,56,PD
+49,Cook,377,56,PD
+49,Wash Hands,52,56,PD
+49,Perform TUG,10,56,PD
+49,Perform TUG w/Questions,14,56,PD
+49,Day Out Task,2121,56,PD
+50,Water Plants,53,70,HOA
+50,Fill Medication Dispenser,255,70,HOA
+50,Wash Countertop,270,70,HOA
+50,Sweep and Dust,462,70,HOA
+50,Cook,237,70,HOA
+50,Wash Hands,36,70,HOA
+50,Perform TUG,6,70,HOA
+50,Perform TUG w/Questions,7,70,HOA
+50,Day Out Task,2227,70,HOA
+51,Water Plants,109,55,PD
+51,Fill Medication Dispenser,297,55,PD
+51,Wash Countertop,496,55,PD
+51,Sweep and Dust,343,55,PD
+51,Cook,214,55,PD
+51,Wash Hands,65,55,PD
+51,Perform TUG,19,55,PD
+51,Perform TUG w/Questions,23,55,PD
+51,Day Out Task,1256,55,PD
+52,Water Plants,220,66,PD
+52,Fill Medication Dispenser,320,66,PD
+52,Wash Countertop,430,66,PD
+52,Sweep and Dust,8,66,PD
+52,Cook,265,66,PD
+52,Wash Hands,61,66,PD
+52,Perform TUG,33,66,PD
+52,Perform TUG w/Questions,32,66,PD
+52,Day Out Task,1608,66,PD
+53,Water Plants,69,67,PD
+53,Fill Medication Dispenser,398,67,PD
+53,Wash Countertop,227,67,PD
+53,Sweep and Dust,401,67,PD
+53,Cook,257,67,PD
+53,Wash Hands,77,67,PD
+53,Perform TUG,14,67,PD
+53,Perform TUG w/Questions,17,67,PD
+53,Day Out Task,1535,67,PD
+54,Water Plants,69,54,HOA
+54,Fill Medication Dispenser,288,54,HOA
+54,Wash Countertop,374,54,HOA
+54,Sweep and Dust,642,54,HOA
+54,Cook,209,54,HOA
+54,Wash Hands,88,54,HOA
+54,Perform TUG,6,54,HOA
+54,Perform TUG w/Questions,6,54,HOA
+54,Day Out Task,593,54,HOA
+55,Water Plants,160,81,PD
+55,Fill Medication Dispenser,888,81,PD
+55,Wash Countertop,282,81,PD
+55,Sweep and Dust,14,81,PD
+55,Cook,946,81,PD
+55,Wash Hands,106,81,PD
+55,Perform TUG,22,81,PD
+55,Perform TUG w/Questions,31,81,PD
+56,Water Plants,128,93,PD
+56,Fill Medication Dispenser,631,93,PD
+56,Wash Countertop,218,93,PD
+56,Sweep and Dust,5,93,PD
+56,Cook,392,93,PD
+56,Wash Hands,64,93,PD
+56,Perform TUG,12,93,PD
+56,Perform TUG w/Questions,15,93,PD
+57,Water Plants,46,61,HOA
+57,Fill Medication Dispenser,189,61,HOA
+57,Wash Countertop,202,61,HOA
+57,Sweep and Dust,435,61,HOA
+57,Cook,304,61,HOA
+57,Wash Hands,54,61,HOA
+57,Perform TUG,5,61,HOA
+57,Perform TUG w/Questions,5,61,HOA
+57,Day Out Task,1407,61,HOA
+58,Water Plants,90,65,HOA
+58,Fill Medication Dispenser,243,65,HOA
+58,Wash Countertop,366,65,HOA
+58,Sweep and Dust,539,65,HOA
+58,Cook,277,65,HOA
+58,Wash Hands,27,65,HOA
+58,Perform TUG,7,65,HOA
+58,Perform TUG w/Questions,8,65,HOA
+58,Day Out Task,1280,65,HOA
+59,Water Plants,59,70,HOA
+59,Fill Medication Dispenser,214,70,HOA
+59,Wash Countertop,177,70,HOA
+59,Sweep and Dust,258,70,HOA
+59,Cook,359,70,HOA
+59,Wash Hands,44,70,HOA
+59,Perform TUG,7,70,HOA
+59,Perform TUG w/Questions,10,70,HOA
+59,Day Out Task,1272,70,HOA
+60,Water Plants,65,70,HOA
+60,Fill Medication Dispenser,257,70,HOA
+60,Wash Countertop,200,70,HOA
+60,Sweep and Dust,353,70,HOA
+60,Cook,268,70,HOA
+60,Wash Hands,37,70,HOA
+60,Perform TUG,9,70,HOA
+60,Perform TUG w/Questions,9,70,HOA
+60,Day Out Task,2918,70,HOA
+61,Water Plants,2243,72,PD
+61,Fill Medication Dispenser,248,72,PD
+61,Wash Countertop,850,72,PD
+61,Sweep and Dust,1365,72,PD
+61,Cook,585,72,PD
+61,Wash Hands,178,72,PD
+61,Perform TUG,10,72,PD
+61,Perform TUG w/Questions,10,72,PD
+61,Day Out Task,1146,72,PD
+62,Water Plants,72,86,HOA
+62,Fill Medication Dispenser,304,86,HOA
+62,Wash Countertop,255,86,HOA
+62,Sweep and Dust,661,86,HOA
+62,Cook,280,86,HOA
+62,Wash Hands,49,86,HOA
+62,Perform TUG,8,86,HOA
+62,Perform TUG w/Questions,11,86,HOA
+62,Day Out Task,1004,86,HOA
+63,Water Plants,137,89,HOA
+63,Fill Medication Dispenser,275,89,HOA
+63,Wash Countertop,199,89,HOA
+63,Sweep and Dust,387,89,HOA
+63,Cook,218,89,HOA
+63,Wash Hands,34,89,HOA
+63,Perform TUG,12,89,HOA
+63,Perform TUG w/Questions,13,89,HOA
+63,Day Out Task,832,89,HOA
+64,Water Plants,308,76,PD
+64,Fill Medication Dispenser,600,76,PD
+64,Wash Countertop,487,76,PD
+64,Sweep and Dust,870,76,PD
+64,Cook,388,76,PD
+64,Wash Hands,97,76,PD
+64,Perform TUG,9,76,PD
+64,Perform TUG w/Questions,11,76,PD
+64,Day Out Task,1073,76,PD
+65,Water Plants,188,60,HOA
+65,Fill Medication Dispenser,233,60,HOA
+65,Wash Countertop,143,60,HOA
+65,Sweep and Dust,420,60,HOA
+65,Cook,234,60,HOA
+65,Wash Hands,38,60,HOA
+65,Perform TUG,9,60,HOA
+65,Perform TUG w/Questions,10,60,HOA
+65,Day Out Task,1077,60,HOA
+66,Water Plants,203,79,HOA
+66,Fill Medication Dispenser,316,79,HOA
+66,Wash Countertop,242,79,HOA
+66,Sweep and Dust,690,79,HOA
+66,Cook,404,79,HOA
+66,Wash Hands,94,79,HOA
+66,Perform TUG,13,79,HOA
+66,Perform TUG w/Questions,13,79,HOA
+66,Day Out Task,1322,79,HOA
+67,Water Plants,154,63,PD
+67,Fill Medication Dispenser,201,63,PD
+67,Wash Countertop,198,63,PD
+67,Sweep and Dust,382,63,PD
+67,Cook,200,63,PD
+67,Wash Hands,42,63,PD
+67,Perform TUG,0,63,PD
+67,Perform TUG w/Questions,8,63,PD
+67,Day Out Task,792,63,PD
+68,Water Plants,187,59,PD
+68,Fill Medication Dispenser,222,59,PD
+68,Wash Countertop,525,59,PD
+68,Sweep and Dust,610,59,PD
+68,Cook,230,59,PD
+68,Wash Hands,60,59,PD
+68,Perform TUG,7,59,PD
+68,Perform TUG w/Questions,10,59,PD
+68,Day Out Task,1330,59,PD
+69,Water Plants,175,60,HOA
+69,Fill Medication Dispenser,162,60,HOA
+69,Wash Countertop,255,60,HOA
+69,Sweep and Dust,585,60,HOA
+69,Cook,311,60,HOA
+69,Wash Hands,30,60,HOA
+69,Perform TUG,5,60,HOA
+69,Perform TUG w/Questions,6,60,HOA
+69,Day Out Task,888,60,HOA
+70,Water Plants,164,70,PD
+70,Fill Medication Dispenser,297,70,PD
+70,Wash Countertop,245,70,PD
+70,Sweep and Dust,592,70,PD
+70,Cook,312,70,PD
+70,Wash Hands,52,70,PD
+70,Perform TUG,8,70,PD
+70,Perform TUG w/Questions,11,70,PD
+70,Day Out Task,928,70,PD
+71,Water Plants,332,80,PD
+71,Fill Medication Dispenser,248,80,PD
+71,Wash Countertop,206,80,PD
+71,Sweep and Dust,500,80,PD
+71,Cook,510,80,PD
+71,Wash Hands,67,80,PD
+71,Perform TUG,11,80,PD
+71,Perform TUG w/Questions,13,80,PD
+71,Day Out Task,684,80,PD
+72,Water Plants,180,65,PD
+72,Fill Medication Dispenser,221,65,PD
+72,Wash Countertop,232,65,PD
+72,Sweep and Dust,284,65,PD
+72,Cook,234,65,PD
+72,Wash Hands,28,65,PD
+72,Perform TUG,7,65,PD
+72,Perform TUG w/Questions,9,65,PD
+72,Day Out Task,879,65,PD
+73,Water Plants,18,70,PD
+73,Fill Medication Dispenser,79,70,PD
+73,Wash Countertop,35,70,PD
+73,Sweep and Dust,30,70,PD
+73,Cook,666,70,PD
+73,Wash Hands,162,70,PD
+74,Water Plants,180,78,PD
+74,Fill Medication Dispenser,254,78,PD
+74,Wash Countertop,280,78,PD
+74,Sweep and Dust,417,78,PD
+74,Cook,235,78,PD
+74,Wash Hands,41,78,PD
+74,Perform TUG,11,78,PD
+74,Perform TUG w/Questions,9,78,PD
+74,Day Out Task,1532,78,PD
