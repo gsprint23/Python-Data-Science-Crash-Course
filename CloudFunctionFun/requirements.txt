@@ -1,0 +1,3 @@
+pandas
+tweepy
+google-cloud-bigquery
